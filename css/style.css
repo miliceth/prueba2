@@ -1,0 +1,58 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+footer{
+	background-color: #1b222c;
+	padding: 15px 0;
+	color: #9e9e9e;
+}
+
+#sec-choose{
+text-align: center;
+margin-top: 5%; 		
+}
+
+.choose {
+font-size: 40px;
+color: #4AE538;	
+}
+
+#sec-work{
+text-align: center;
+margin-top: 5%;
+	background-color: #f5f8fb; 
+}
+
+#sec-counter{
+background-image: url(../img/facts-bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 4%;
+text-align: center;
+margin-top: 5%;
+}
+
+.counter{
+font-size: 40px;
+color: #000000;	
+}
+
+.layer{
+    padding: 50px;
+	color:#fff;
+	opacity: 1;
+	background-color:rgba(0,0,0,0.83);
+	width: 400px;}
+
+.text{
+color:#9c3;
+}
+
+.parrafo{
+font-sixe:10px;
+color:#000000;
+}
+
